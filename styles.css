@@ -24,7 +24,7 @@ html {
 
 #Presentation img {
     max-width: 300px;
-    clip-path: circle();
+    border-radius: 50%;
 }
 
 h6,
