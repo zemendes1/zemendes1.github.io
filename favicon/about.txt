@@ -1,6 +1,6 @@
 This favicon was generated using the following font:
 
-- Font Title: Klee One
+- Font Title: Open Sans
 - Font Author: undefined
-- Font Source: https://fonts.gstatic.com/s/kleeone/v12/LDIxapCLNRc6A8oT4q4AOeekWPrP.ttf
+- Font Source: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1y4nY1M2xLER.ttf
 - Font License: undefined)
