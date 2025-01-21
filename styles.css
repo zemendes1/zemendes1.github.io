@@ -16,3 +16,19 @@ h1 {
 html {
     scroll-behavior: smooth;
 }
+
+#Presentation {
+    margin-top: 5rem;
+    margin-bottom: 10rem;
+}
+
+#Presentation img {
+    max-width: 300px;
+    clip-path: circle();
+}
+
+h6,
+h3,
+#footer_nav {
+    color: rgba(0, 0, 0, 0.65);
+}
