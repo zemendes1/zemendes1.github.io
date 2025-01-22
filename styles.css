@@ -48,3 +48,7 @@ h3,
     background-color: #F8F9FA;
     border: none;
 }
+
+.skill-project li {
+    border: none;
+}
