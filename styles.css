@@ -48,3 +48,8 @@ h3,
     background-color: #F8F9FA;
     border: none;
 }
+
+.skill-project {
+    display: flex;
+    flex-wrap: wrap;
+}
